@@ -1,0 +1,32 @@
+.shirome {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.kurome {
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+}
+.doukou {
+    background-color: rgb(0, 255, 0);
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+}
+.shirome2 {
+    background-color: rgb(51, 0, 255);
+    width: 100%;
+    height: 100px;
+}
+.kurome2 {
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+.textbox {
+    border: 1px solid black;
+}
